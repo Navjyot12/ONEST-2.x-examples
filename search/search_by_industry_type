@@ -1,7 +1,7 @@
 {
     "context": {
         "domain": "onest:work-opportunities",
-        "action": "on_search",
+        "action": "search",
         "version": "2.x",
         "bap_id": "worker-hub.bap.io",
         "bap_uri": "https://worker-hub.bap.io/",

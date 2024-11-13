@@ -2,7 +2,7 @@
     "context": {
       "domain": "onest:work-opportunities",
       "action": "select",
-      "version": "1.1.0",
+      "version": "2.x",
       "bap_id": "worker-hub.bap.io",
       "bap_uri": "https://worker-hub.bap.io",
       "bpp_id": "job-hub.bpp.io",
